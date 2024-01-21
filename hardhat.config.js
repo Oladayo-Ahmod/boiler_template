@@ -1,6 +1,5 @@
 /** @type import('hardhat/config').HardhatUserConfig */
 require('@nomicfoundation/hardhat-toolbox')
-require('@nomicfoundation/hardhat-verify')
 require('@nomicfoundation/hardhat-chai-matchers')
 // require('@nomiclabs/hardhat-etherscan')
 require('solidity-coverage')
